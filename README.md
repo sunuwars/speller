@@ -1,3 +1,9 @@
+The dictionary is built using the trie data structure and is loaded in memory.
+
+This is much efficient compared to expensive process of comparing against individual entries in an array.
+
+In trie, searching a word of length n takes a predictible n number of steps which is the reason I chose to implement trie.
+
 # Questions
 
 ## What is pneumonoultramicroscopicsilicovolcanoconiosis?
